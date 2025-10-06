@@ -39,7 +39,6 @@ sudo dnf install wmctrl -y
 Shows all currently open windows.
 # 3. Open an Application
 ```
-Linux
 firefox &
 gnome-terminal &
 nautilus &
